@@ -85,7 +85,7 @@ Tor is running.
 You are NOT anonymous.
 
 Tor hides paths, not your system.
-Your setup leaks like a 70yo Mom.
+Your setup leaks like a 70yo mom!.
 Your confidence is the vulnerability.
 
 I didn’t say this.
